@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.container{
+    background-color: blueviolet;
+    width: 50%;
+   height: 80vh;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+}
+.form{
+    background-color: #b12323;
+    padding-top: 50px;
+}
